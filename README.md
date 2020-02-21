@@ -7,6 +7,7 @@ Video - GIF
 
 ![How it works](how_it_works.gif)
 
+<img src="https://github.com/PankajChunchun/TimeInputEditText/blob/master/how_it_works.gif" width="300" height="500">
 
 
 Screenshot
